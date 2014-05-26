@@ -1,0 +1,28 @@
+;;;
+;;; Queue obect
+;;;
+;; 'make-queue' returns a closure that implements the queue. 
+;; 'push x: push x onto the rear of the queue
+;; 'pop: remove the head of the queue and return it
+;; 'peek: return the head of the queue
+;; 'show: show the queue's contents
+;; 'fb: show the front and back parts of the queue (for debugging)
+10(define make-queue
+  (lambda ()
+    (let ((front '()) (back '()))
+      (lambda (cmd . data)
+        (define exchange
+          (lambda ()
+            (set! front (reverse back))
+            (set! back '())))
+        (case cmd
+          ((push) (push (car data) back))
+          ((pop) (or (pop front)
+                     (begin
+                       (exchange)
+                       (pop front))))
+          ((peek) (unless (pair? front)
+                    (exchange))
+                    (car front))
+          ((show) (format #t "~s\n" (append front (reverse back))))
+          ((fb) (format #t "front: ~s, back: ~s\n" front back))
