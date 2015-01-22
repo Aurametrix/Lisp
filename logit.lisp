@@ -1,0 +1,21 @@
+(defun descent (fun x &key (error 1.0d-4) 
+                           (rate 1.0d-2) 
+                           (debug nil)
+                           (max-steps 1000))
+  (labels
+     ((make-step (y) 
+          (loop for i from 0 below (length y) collect 
+             (let ((ini (copy-seq y))
+                   (ter (copy-seq y)))
+                (incf (aref ter i) error)
+                (decf (aref ini i) error)
+                (/ (- (funcall fun ter) (funcall fun ini)) (* 2.0d0 (/ error rate))))))
+      (norm (y) 
+          (sqrt (reduce '+ (map 'list (lambda (i) (expt i 2)) y)))))
+
+    (do* ((y x (map 'vector '- y step))
+          (step (make-step y) (make-step y))
+          (n 1 (1+ n)))
+       ((or (< (norm step) error) (>= n max-steps)) (values y n))
+       (if (and debug (zerop (mod n 100)))
+          (format t "~4D ~6,7F  (~{~4,2F~^, ~})~%" n (norm step) (coerce y 'list))))))
