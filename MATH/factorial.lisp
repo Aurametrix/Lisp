@@ -1,4 +1,5 @@
-(defun fact (n)
-  (if (< n 2)
-      1
-    (* n (fact(- n 1)))))
+(defun factorial (n)
+  "Calculates N!"
+  (loop for result = 1 then (* result i)
+     for i from 2 to n 
+     finally (return result)))
