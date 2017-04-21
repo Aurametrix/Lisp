@@ -14,3 +14,16 @@ stringAppend =
 unpackString (String s) = s
 unpackString v = show v
 
+
+interpolation = do
+  char '~'
+  list <|> symbol
+
+literalString =
+  String <$> many1 (noneOf "\"~")
+
+string = do
+  char '"'
+  xs <- many (literalString <|> interpolation)
+  char '"'
+  return $ List (Symbol "string-append" : xs)
