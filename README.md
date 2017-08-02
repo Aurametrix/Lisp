@@ -50,8 +50,8 @@ shows that in a functional language, heap-sort isn't too complex
 
 
 ====
-http://www.lispworks.com/documentation/lcl50/ug/ug-21.html
-http://landoflisp.com/source.html
++ [Works](http://www.lispworks.com/documentation/lcl50/ug/ug-21.html)
++ [Land of Lisp](http://landoflisp.com/source.html)
 
 
 vs C++
@@ -59,5 +59,10 @@ http://www.dawnofthedata.com/2014/05/abusing-langauge-features-common-lisp.html
 
 learning with Python
 http://un.portemanteau.ca/learn-a-lisp-with-python.html
+
+Hylang - a dialect designed to interact with Python by translating expressions into Python's abstract syntax tree (AST)
++ [Hy docs](https://hy.readthedocs.io/en/stable/)
++ [Hy demo](https://try-hy.appspot.com/)
+
 
 
