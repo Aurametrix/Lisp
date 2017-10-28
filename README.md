@@ -53,6 +53,13 @@ shows that in a functional language, heap-sort isn't too complex
 + [Works](http://www.lispworks.com/documentation/lcl50/ug/ug-21.html)
 + [Land of Lisp](http://landoflisp.com/source.html)
 
+### Web frameworks
++ [Clack](https://github.com/fukamachi/clack)
++ [Ningle](https://github.com/fukamachi/ningle)
++ [Clojure toolbox](https://www.clojure-toolbox.com)
+
++ [SQL APIs and ORMs](https://github.com/marijnh/Postmodern)
+
 
 vs C++
 http://www.dawnofthedata.com/2014/05/abusing-langauge-features-common-lisp.html
