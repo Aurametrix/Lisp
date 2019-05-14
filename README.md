@@ -81,6 +81,8 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 ### 
 + [Make a language in 1 hr](https://beautifulracket.com/stacker/)
 
++ [Numpy clone](https://github.com/numcl/numcl)
+
 
 #### PAPERS
 + [Common Lisp, Typing and Math](https://www-fourier.ujf-grenoble.fr/~sergerar/Papers/Ezcaray.pdf)
