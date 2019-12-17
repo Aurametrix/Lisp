@@ -70,6 +70,8 @@ http://un.portemanteau.ca/learn-a-lisp-with-python.html
 
 Hylang - a dialect designed to interact with Python by translating expressions into Python's abstract syntax tree (AST)
 
++ [Macros by example](https://m.stopa.io/macros-by-example-6ddbc8f3d93b)
+
 + [Hy docs](https://hy.readthedocs.io/en/stable/)
 
 + [Hy demo](https://try-hy.appspot.com/)
