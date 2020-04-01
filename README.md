@@ -78,6 +78,8 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 
 + [SHCL: Shell Meets Common Lisp](https://github.com/bradleyjensen/shcl)
 
++ [Restarts](https://sulami.github.io/posts/common-lisp-restarts/)
+
 + [Make a Lisp](https://github.com/kanaka/mal#mal---make-a-lisp), in 68 languages
 
 
