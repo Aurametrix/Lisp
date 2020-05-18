@@ -83,11 +83,13 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 + [Make a Lisp](https://github.com/kanaka/mal#mal---make-a-lisp), in 68 languages
 
 
-### 
+### Interesting Projects
+
 + [Make a language in 1 hr](https://beautifulracket.com/stacker/)
 
 + [Numpy clone](https://github.com/numcl/numcl)
 
++ [Ronin](https://100r.co/site/ronin.html) - image processing tool
 
 #### PAPERS
 + [Common Lisp, Typing and Math](https://www-fourier.ujf-grenoble.fr/~sergerar/Papers/Ezcaray.pdf)
