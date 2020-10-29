@@ -6,7 +6,7 @@ Second-oldest high-level programming language after Fortran
 + [Tutorial on Good Lisp Programming Style](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 
 
-implementing functional sorts is much easier than procedural sorts
+implementing functional sorts much easier than procedural sorts
 -------
 from here
 http://hipster.home.xs4all.nl/lib/scheme/librep/sorts.jl
@@ -53,6 +53,7 @@ shows that in a functional language, heap-sort isn't too complex
 ====
 + [Works](http://www.lispworks.com/documentation/lcl50/ug/ug-21.html)
 + [Land of Lisp](http://landoflisp.com/source.html)
++ [Compiling a Lisp to x86-64](https://bernsteinbear.com/blog/compiling-a-lisp-11/)
 
 ### Web frameworks
 + [Clack](https://github.com/fukamachi/clack)
