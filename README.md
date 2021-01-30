@@ -96,6 +96,8 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 
 + [Risp](https://stopa.io/post/222) — a lisp in rust
 
++ [Shell for Lisp](https://github.com/naver/lispe/wiki/7.-Shell)
+
 #### PAPERS
 + [Common Lisp, Typing and Math](https://www-fourier.ujf-grenoble.fr/~sergerar/Papers/Ezcaray.pdf)
 
