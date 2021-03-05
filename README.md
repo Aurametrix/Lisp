@@ -98,6 +98,8 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 
 + [Shell for Lisp](https://github.com/naver/lispe/wiki/7.-Shell)
 
++ [A Whirlwind Lisp Adventure](https://github.com/codr7/whirlisp)
+
 #### PAPERS
 + [Common Lisp, Typing and Math](https://www-fourier.ujf-grenoble.fr/~sergerar/Papers/Ezcaray.pdf)
 
