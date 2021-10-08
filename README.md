@@ -100,6 +100,9 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 
 + [A Whirlwind Lisp Adventure](https://github.com/codr7/whirlisp)
 
++ [Shadegarden](https://blog.tonari.no/shadergarden) - reloadable graphical pipelines; [code](https://github.com/tonarino/shadergarden)
+
+
 #### PAPERS
 + [Common Lisp, Typing and Math](https://www-fourier.ujf-grenoble.fr/~sergerar/Papers/Ezcaray.pdf)
 
