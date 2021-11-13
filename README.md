@@ -4,7 +4,7 @@ Lisp
 Second-oldest high-level programming language after Fortran
 
 + [Tutorial on Good Lisp Programming Style](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
-+ [Why Lisp?](http://blog.rongarret.info/2015/05/why-lisp.html)
++ [Why Lisp?](http://blog.rongarret.info/2015/05/why-lisp.html).. and again [Why Lisp?]( https://atlas.engineer/technical-article/why-lisp.org)
 
 
 implementing functional sorts much easier than procedural sorts
