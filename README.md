@@ -84,6 +84,7 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 + [Restarts](https://sulami.github.io/posts/common-lisp-restarts/)
 
 + [Make a Lisp](https://github.com/kanaka/mal#mal---make-a-lisp), in 68 languages
++ [Debugging Lisp](https://lisp-journey.gitlab.io/blog/debugging-lisp-trace-options-break-on-conditions/)
 
 + [Compiling a LISP](https://bernsteinbear.com/blog/compiling-a-lisp-6/)
 + [Loops in Lisp](https://malisper.me/loops-in-lisp-part-4-series/)
