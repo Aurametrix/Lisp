@@ -4,7 +4,8 @@ Lisp
 Second-oldest high-level programming language after Fortran
 
 + [Tutorial on Good Lisp Programming Style](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
-+ [Why Lisp?](http://blog.rongarret.info/2015/05/why-lisp.html).. and again [Why Lisp?]( https://atlas.engineer/technical-article/why-lisp.org)
++ [Why Lisp?](http://blog.rongarret.info/2015/05/why-lisp.html).. and again [Why Lisp?]( https://atlas.engineer/technical-article/why-lisp.org) and now tested with Nyxt 5/6/2023 [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
+
 + [LEarn LISP the hard way](https://llthw.common-lisp.dev/)
 
 
