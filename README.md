@@ -9,6 +9,7 @@ Second-oldest high-level programming language after Fortran
 + [Common Lisp](https://cse.buffalo.edu/~shapiro/Commonlisp/commonLisp.pdf) - an interactive approach
 
 + [Learn LISP the hard way](https://llthw.common-lisp.dev/)
++ [Logical Operations on Numbers](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000))
 
 
 
