@@ -118,6 +118,7 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 + [game engine written in Common Lisp](https://github.com/Shirakumo/trial)
 + [Joy](https://joy.swlkr.com/) - A maximalist web framework for lisp aficionados
 + [LISP in 99 lines of C](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
++ [A star](https://gitlab.com/lockie/cl-astar) - A heavily optimized yet flexible A* pathfinding algorithm implementation
 
 
 #### PAPERS
