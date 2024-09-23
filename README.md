@@ -112,6 +112,7 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 
 + [Common Lisp 3D graphics code](https://github.com/kaveh808/kons-9)
 + [Graphical Terminals for Common Lisp](https://www.martin-loetzsch.de/gtfl/)
++ [Hy 1.0.0](https://github.com/hylang/hy/discussions/2608) - LISP dialect for python
 
 + [Shadegarden](https://blog.tonari.no/shadergarden) - reloadable graphical pipelines; [code](https://github.com/tonarino/shadergarden)
 + [Comparison of Common Lisp Logging Libraries](https://sabracrolleton.github.io/logging-comparison.html)
