@@ -104,6 +104,7 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 + [Ronin](https://100r.co/site/ronin.html) - image processing tool
 
 + [Risp](https://stopa.io/post/222) — a lisp in rust
++ [TinyLISP](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C
 
 + [Shell for Lisp](https://github.com/naver/lispe/wiki/7.-Shell)
 
