@@ -126,6 +126,7 @@ Hylang - a dialect designed to interact with Python by translating expressions i
 + [LISP's influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
 + [A star](https://gitlab.com/lockie/cl-astar) - A heavily optimized yet flexible A* pathfinding algorithm implementation
 + [Why vibe code in Lisp?](https://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
++ [LISPy things you can do in 64K bytes of core](https://t3x.org/lisp64k/index.html)
 
 
 #### PAPERS
